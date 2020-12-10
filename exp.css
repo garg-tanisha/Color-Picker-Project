@@ -1,0 +1,128 @@
+body{
+	background-color: black;
+	font-family: 'Fjalla One', sans-serif;
+}
+
+a{
+	text-decoration: none;
+	color: #305ba1;
+}
+
+table{
+	margin: auto;
+	margin-top: 10px;
+}
+
+.paragraph{
+	font-size: 21px;
+	padding: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+.rgb{
+	font-size: 50px;
+	padding: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+.unordered-list{
+	background: white;
+	margin-top: 0px;
+	color: #305ba1;
+	font-size: 18px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	font-weight: bold;
+	margin: auto;
+}
+
+li{
+	display: inline-block;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  /*margin-block-start: 1em;*/
+  /*margin-block-end: 1em;*/
+/*  margin-inline-start: 0px;
+  margin-inline-end: 0px;*/
+  /*padding-inline-start: 40px;*/
+  /*text-indent: 40px;*/
+  text-align: center;
+  width: 100%;
+}
+
+/* #game-status{ */
+	/*padding-left: 19%;*/
+	/*padding-right: 19%;*/
+	/*width: 5%;*/
+	/*float: left;*/
+/* } */
+
+/* .difficulty-level{ */
+	/*padding-right: 19%;*/
+	/*padding-left: 19%;*/
+	/*width: 5%;*/
+/* } */
+
+div{
+	margin-bottom: 0px;
+	border: 10px solid #305ba1;
+	padding-top: 0px;
+	background: #305ba1;
+	color: white;
+	text-align: center;
+	margin-bottom: 0px;
+}
+
+#next-step-indicator{
+	font-size: 13px;
+	/*font-weight: bold;*/
+	width: 5%;
+	color: black;
+	/*padding-left: 10%;*/
+	/*padding-right: 10%; */
+	/*padding-bottom: 0px;*/
+	/*padding-top: 0px;*/
+}
+
+td{
+	width:180px;
+	height: 150px;
+	border-radius: 30px;
+	border: 5px solid black;
+}
+
+#color-one{
+	background: rgb(252, 186, 3);
+}
+
+#color-two{
+	background: rgb(69, 252, 3);
+}
+
+#color-three{
+	background: rgb(3, 219, 252);
+}
+
+#color-four{
+	background: rgb(3, 219, 252);
+}
+
+#color-five{
+	background: rgb(119, 3, 252);
+}
+
+#color-six{
+	background: rgb(252, 3, 132);
+}
+
+/* #nee{
+	background: white;
+	color: blue;
+	text-align: center;
+} */
