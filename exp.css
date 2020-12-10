@@ -46,28 +46,28 @@ ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
-  /*margin-block-start: 1em;*/
-  /*margin-block-end: 1em;*/
-/*  margin-inline-start: 0px;
-  margin-inline-end: 0px;*/
-  /*padding-inline-start: 40px;*/
-  /*text-indent: 40px;*/
+  /*margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  padding-inline-start: 40px;
+  text-indent: 40px;*/
   text-align: center;
   width: 100%;
 }
 
-/* #game-status{ */
-	/*padding-left: 19%;*/
-	/*padding-right: 19%;*/
-	/*width: 5%;*/
-	/*float: left;*/
-/* } */
+/* #game-status{ 
+	padding-left: 19%;
+	padding-right: 19%;
+	width: 5%;
+	float: left;
+} */
 
-/* .difficulty-level{ */
-	/*padding-right: 19%;*/
-	/*padding-left: 19%;*/
-	/*width: 5%;*/
-/* } */
+/* .difficulty-level{ 
+	padding-right: 19%;
+	padding-left: 19%;
+	width: 5%;
+} */
 
 div{
 	margin-bottom: 0px;
@@ -120,9 +120,3 @@ td{
 #color-six{
 	background: rgb(252, 3, 132);
 }
-
-/* #nee{
-	background: white;
-	color: blue;
-	text-align: center;
-} */
